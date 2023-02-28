@@ -22,7 +22,7 @@ public class Program {
 		
 		
 		for (int i = 1; i <=p; i++) {
-			sc.nextLine();
+			
 			System.out.print("Common, used or imported (c/u/i)?");
 			
 			char c = sc.next().charAt(0);
